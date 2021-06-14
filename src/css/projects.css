@@ -1,0 +1,33 @@
+.project{
+    padding-block-start: 40px;
+    padding-block-end: 40px;
+}
+
+.project-img img{
+    max-inline-size: 100%;
+}
+.project-img{
+    text-align: center;
+}
+.project-description{
+    display: flex;
+    flex-direction: column;
+    gap: 16px;
+}
+@media screen and (min-width: 768px ) {
+    .project{
+        display: flex;
+        align-items: center;
+        padding-block-start: 80px;
+        padding-block-end: 80px;
+        gap: 32px;
+    }
+    .project-description{
+        flex: 1;
+    }    
+    .project:nth-child(3) .project-img, .project:nth-child(7) .project-img{                     
+        order: 2;
+        flex: 1;
+        text-align: center; 
+    }
+}
