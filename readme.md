@@ -3,7 +3,7 @@
 
 _Maquetación y codificación del Taller **/Portafolio Jaume**  de [Leonidas Esteban](https://leonidasesteban.com/), en lo personal, aprendí muchísimo y me retó a seguir mejorando.💪_
 
-Te dejo aquí una demo: https://pierre-juarez.github.io/portafolio_jaume
+Te dejo aquí una demo: https://pierre-juarez.github.io/portafolio_jaume/
 
 ## Desktop
 
